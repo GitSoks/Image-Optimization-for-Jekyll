@@ -1,25 +1,3 @@
----
-layout: post
-title: Boost Your Blog's Performance with Automated Image Optimization
-date: 2025-07-28 14:52 +0200
-image: banner.png
-media_subpath: "/assets/img/posts/2025-07-28-optimize-images"
-category:
-- Home Lab / Self-Hosting
-- Software Engineering
-tags:
-- homelab
-- softwaredevelopment
-- performance
-- webp
-- optimization
-- automation
-math: false
-comments: true
-mermaid: true
-pin: false
-toc: true
----
 
 # Boost Your Blog's Performance with Automated Image Optimization
 
@@ -288,10 +266,8 @@ Image optimization doesn't have to be a manual, time-consuming process. With thi
 - **Save bandwidth costs** for both you and your visitors
 - **Maintain visual quality** while optimizing for the web
 
-The script is available in my [blog repository](https://github.com/GitSoks/GitSoks.github.io/blob/main/tools/optimize-images.sh) and can be easily adapted for any Jekyll blog or static site.
 
 Ready to supercharge your blog's performance? Download the script and watch your images transform from performance bottlenecks into speed demons! 🚀
 
 ---
 
-*Have you tried image optimization on your blog? Share your results in the comments below!*
